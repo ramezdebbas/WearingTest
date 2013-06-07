@@ -1,0 +1,13 @@
+Wearing Test:
+Description:
+A Children quiz game that help them remember the wearing (clothes). It’s like a simple test & MCQs type game. The app includes the series of question and images of clothes.
+
+Features:
+•	The quiz about wearing (Clothes).
+•	Timer for the quiz which records the how much time the solving has taken.
+•	Play/Pause and Stop/Restart Options.
+•	Result in True or False is shown against every selection.
+•	At the end Summary of How much questions were true, How much were False and how much time it took to solve the complete quiz.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Live Tiles(Locally & Remotely)
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
